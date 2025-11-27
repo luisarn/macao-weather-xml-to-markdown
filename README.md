@@ -89,15 +89,15 @@ weather-markdown/
 ├── README.md # This file
 ├── weather_markdown.py # Main application code
 └── templates/ # Markdown templates
-├── default_template.md # Chinese default template
-├── detailed_template.md # Chinese detailed template
-├── minimal_template.md # Chinese minimal template
-├── default_pt.md # Portuguese default template
-├── detailed_pt.md # Portuguese detailed template  
- ├── minimal_pt.md # Portuguese minimal template
-├── default_en.md # English default template
-├── detailed_en.md # English detailed template
-└── minimal_en.md # English minimal template
+    ├── default_template.md # Chinese default template
+    ├── detailed_template.md # Chinese detailed template
+    ├── minimal_template.md # Chinese minimal template
+    ├── default_pt.md # Portuguese default template
+    ├── detailed_pt.md # Portuguese detailed template  
+    ├── minimal_pt.md # Portuguese minimal template
+    ├── default_en.md # English default template
+    ├── detailed_en.md # English detailed template
+    └── minimal_en.md # English minimal template
 
 ## Templates
 
