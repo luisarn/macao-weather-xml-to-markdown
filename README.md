@@ -83,7 +83,7 @@ Portuguese: https://xml.smg.gov.mo/p_forecast.xml
 English: https://xml.smg.gov.mo/e_forecast.xml
 
 ## Project Structure
-
+```
 weather-markdown/
 ├── pyproject.toml # Project configuration and dependencies
 ├── README.md # This file
@@ -98,7 +98,7 @@ weather-markdown/
     ├── default_en.md # English default template
     ├── detailed_en.md # English detailed template
     └── minimal_en.md # English minimal template
-
+```
 ## Templates
 
 Templates are located in the templates/ directory and use the following placeholders:
